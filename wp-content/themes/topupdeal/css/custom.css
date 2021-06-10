@@ -1,0 +1,302 @@
+.main-product-container{
+    background: white;
+    padding-top: 6px;
+}
+.product-list-sm .product-media {
+    flex: 0 0 10rem;
+    max-width: 10rem;
+    margin: 0 1rem 0 0;
+}
+.checkout .summary {
+    padding-top: 1.8rem;
+}
+.summary {
+    padding: 2.8rem 3rem 2rem;
+    border: 1px solid #e1e1e1;
+    border-radius: 2px;
+}
+.order-table {
+    margin-bottom: 2rem;
+    color: #222;
+}
+.order-table thead {
+    border-bottom: 1px solid #e1e1e1;
+    line-height: 2.5;
+}
+.order-table th {
+    padding: 0 0 .7rem 1px;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.order-table tbody {
+    vertical-align: top;
+    padding-top: 2rem;
+}
+.checkout .product-name {
+    font-size: 1.4rem;
+    letter-spacing: 0;
+    white-space: normal;
+}
+
+.order-table td {
+    line-height: 3.5;
+}
+.product-name {
+    margin-bottom: .6rem;
+    font-family: inherit;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #222;
+    padding-right: unset;
+    /*padding-right: 20px;*/
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.order-total {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #26b;
+}
+.order-table .order-total td {
+    border-bottom: none;
+    padding: 1.2rem 0 0;
+}
+.checkout .payment.accordion {
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 2rem;
+}
+.checkout .card {
+    background: transparent;
+}
+.checkout .card-header {
+    font-size: 1.4rem;
+    line-height: 3rem;
+    text-transform: capitalize;
+    font-weight: 300;
+}
+.checkout .card-header a {
+    padding: 0 0 0 2.5rem;
+}
+.card-header a {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 1.8rem .5rem;
+}
+.accordion .collapsed, .accordion .expanding {
+    display: none;
+}
+.checkout .card-header a::before {
+    left: 0;
+    width: 1.8rem;
+    height: 1.8rem;
+    background: #fff;
+    border: 1px solid #cdcdcd;
+}
+.checkout .card-header a::before, .checkout .card-header a::after {
+    position: absolute;
+    content: '';
+    display: inline-block;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.collapse::after {
+    content: '\e967';
+}
+
+.card-header a::after {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: .4rem;
+    font-family: 'Donald';
+    font-size: 1.4rem;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    color: #222;
+}
+
+.checkout .card-header a::before, .checkout .card-header a::after {
+    position: absolute;
+    content: '';
+    display: inline-block;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.checkout .card-header a.collapse::after {
+    width: .8rem;
+    height: .8rem;
+    left: .5rem;
+    background: #666;
+}
+.menu.right-flash-menu li:hover>a:not(.menu-title), .menu.right-flash-menu .active>a:not(.menu-title) {
+    color: #fff !important;
+}
+.gallery-thumb a{
+    position: relative;
+    min-height: 1px;
+    float: left;
+    width: 102px;
+    margin-top: 26px;
+    margin-right: 5px;
+}
+.gallery-thumb a.active{
+    border: 2px solid #0063d1;
+}
+.payment{
+    display: none;
+}
+
+/*reset fw-container*/
+.fw-container {
+     position: unset; 
+     margin-right: unset; 
+     margin-left: unset; 
+     padding-left: unset; 
+     padding-right: unset; 
+     max-width: unset;
+     width: unset; 
+}
+
+.misha_loadmore{
+    display:block;
+    /*margin: 10px auto;*/
+}
+.fw-row{
+    /*margin-right: unset;
+    margin-left: unset;*/
+}
+.woocommerce div.product p.price, .woocommerce div.product span.price{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #0063d1;
+}
+.product-price del{
+        font-size: 15px;
+    color: #999;
+}
+.product-price ins{
+    text-decoration: none;
+}
+.product-details .btn-cart, .product-hide-details .btn-cart{
+    z-index: 0;
+}
+.custom-photo-gal{
+    position: relative;
+}
+.woocommerce-error, .woocommerce-info, .woocommerce-message{
+    background: #fff;
+    margin-bottom: 0;
+}
+.woocommerce-page .woocommerce-message .button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    
+    background-color: #0063d1;
+    color: #fff;
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.025em;
+    text-transform: uppercase;
+    transition: opacity .3s;
+}
+.form-control.qty{
+    border: 1px solid;
+    background: #fff;
+}
+
+.zoomContainer{
+    /*margin-top: 32px;*/
+}
+.payment_methods li label{
+    position: relative;
+}
+.sidebar-overlay, .sidebar-toggle, .sidebar-content, .sidebar-close{
+    z-index: 0 !important;
+}
+.woocommerce-mini-cart__empty-message{
+    margin-top: 2rem;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{
+    background-color: #0063d1;
+}
+.btn-new-cart{
+    border: 0;
+    flex: 1;
+    min-width: 13rem;
+    font-size: 1.4rem;
+    background-color: #0063d1;
+    cursor: pointer;
+    max-width: 20.7rem;
+    height: 4.5rem;
+}
+.login-popup{
+    display: none;
+}
+.mfp-content .login-popup{
+    display: block;
+}
+/*.woocommerce{
+    max-width: 1220px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.woocommerce-form{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #0063d1;
+    border-radius: 15px;
+    padding: 50px;
+    margin-bottom: 96px;
+    background: #fff;
+}
+.woocommerce-form  .form-row{
+    width: 100% !important;
+}
+.static-content{
+    margin: 42px;
+    text-align: center;
+   
+}
+.static-content h5{
+    margin: 32px;
+}
+.color-primary{
+    color: #0063d1;
+}
+body main {
+    /*background: #fff;*/
+}
+.wp_autosearch_form_wrapper, .wp_autosearch_input.ac_input{
+    border-radius: 25px;
+}
+.wp_autosearch_input.ac_input{
+    padding-left: 25px !important;
+}
+.wp_autosearch_submit:before{
+     font-family: "FontAwesome"; 
+     font-weight: 400; 
+     content: "\f002";
+}
+.mmenu-active .page-wrapper {
+    margin-left: unset; 
+    margin-right: unset; 
+}
+.sidebar-active .page-wrapper {
+    margin-left: unset;
+    margin-right: unset;
+}

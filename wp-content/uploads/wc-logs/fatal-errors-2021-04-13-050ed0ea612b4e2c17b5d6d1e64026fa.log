@@ -1,0 +1,107 @@
+2021-04-13T14:04:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-04-13T15:52:49+00:00 CRITICAL Uncaught Error: Call to undefined function emtpy() in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\header.php:240
+Stack trace:
+#0 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template.php(730): require_once()
+#1 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template.php(676): load_template('D:\\wamp64\\www\\m...', true, Array)
+#2 D:\wamp64\www\meromarketing\topupdeal\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\front-page.php(10): get_header()
+#4 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\m...')
+#5 D:\wamp64\www\meromarketing\topupdeal\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\m...')
+#6 D:\wamp64\www\meromarketing\topupdeal\index.php(17): require('D:\\wamp64\\www\\m...')
+#7 {main}
+  thrown in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\header.php on line 240
+
+2021-04-13T15:52:54+00:00 CRITICAL Uncaught Error: Call to undefined function emtpy() in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\header.php:240
+Stack trace:
+#0 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template.php(730): require_once()
+#1 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template.php(676): load_template('D:\\wamp64\\www\\m...', true, Array)
+#2 D:\wamp64\www\meromarketing\topupdeal\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\front-page.php(10): get_header()
+#4 D:\wamp64\www\meromarketing\topupdeal\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\m...')
+#5 D:\wamp64\www\meromarketing\topupdeal\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\m...')
+#6 D:\wamp64\www\meromarketing\topupdeal\index.php(17): require('D:\\wamp64\\www\\m...')
+#7 {main}
+  thrown in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\header.php on line 240
+
+2021-04-13T16:02:54+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 637
+
+2021-04-13T16:02:54+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 637
+
+2021-04-13T16:02:55+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 637
+
+2021-04-13T16:03:06+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 637
+
+2021-04-13T16:03:11+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 637
+
+2021-04-13T16:08:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:16:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:20:23+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:25:02+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:27:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:32:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:35:21+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:35:21+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:22+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:22+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:23+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:47+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:47+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:53+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:35:53+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 638
+
+2021-04-13T16:38:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:39:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:42:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:45:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T16:50:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\wamp64\www\meromarketing\topupdeal\wp-content\plugins\unyson\framework\includes\option-types\icon-v2\includes\class-fw-icon-v2-packs-loader.php on line 233
+
+2021-04-13T17:07:12+00:00 CRITICAL syntax error, unexpected ',' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 644
+
+2021-04-13T17:07:13+00:00 CRITICAL syntax error, unexpected ',' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 644
+
+2021-04-13T17:07:13+00:00 CRITICAL syntax error, unexpected ',' in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\hooks.php on line 644
+
+2021-04-13T17:11:17+00:00 CRITICAL Uncaught Error: Call to undefined function fw() in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php:44
+Stack trace:
+#0 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php(188): Theme_Includes::init()
+#1 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\functions.php(6): require_once('D:\\wamp64\\www\\m...')
+#2 D:\wamp64\www\meromarketing\topupdeal\wp-settings.php(528): include('D:\\wamp64\\www\\m...')
+#3 D:\wamp64\www\meromarketing\topupdeal\wp-config.php(90): require_once('D:\\wamp64\\www\\m...')
+#4 D:\wamp64\www\meromarketing\topupdeal\wp-load.php(37): require_once('D:\\wamp64\\www\\m...')
+#5 D:\wamp64\www\meromarketing\topupdeal\wp-blog-header.php(13): require_once('D:\\wamp64\\www\\m...')
+#6 D:\wamp64\www\meromarketing\topupdeal\index.php(17): require('D:\\wamp64\\www\\m...')
+#7 {main}
+  thrown in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php on line 44
+
+2021-04-13T17:11:17+00:00 CRITICAL Uncaught Error: Call to undefined function fw() in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php:44
+Stack trace:
+#0 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php(188): Theme_Includes::init()
+#1 D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\functions.php(6): require_once('D:\\wamp64\\www\\m...')
+#2 D:\wamp64\www\meromarketing\topupdeal\wp-settings.php(528): include('D:\\wamp64\\www\\m...')
+#3 D:\wamp64\www\meromarketing\topupdeal\wp-config.php(90): require_once('D:\\wamp64\\www\\m...')
+#4 D:\wamp64\www\meromarketing\topupdeal\wp-load.php(37): require_once('D:\\wamp64\\www\\m...')
+#5 D:\wamp64\www\meromarketing\topupdeal\wp-blog-header.php(13): require_once('D:\\wamp64\\www\\m...')
+#6 D:\wamp64\www\meromarketing\topupdeal\index.php(17): require('D:\\wamp64\\www\\m...')
+#7 C:\Users\Pratik\AppData\Local\Temp\wp-cli-extract-from-phar-6075a3e7741482.30689453-router.php(134): require_once('D:\\wamp64\\www\\m...')
+#8 {main}
+  thrown in D:\wamp64\www\meromarketing\topupdeal\wp-content\themes\topupdeal\inc\init.php on line 44
+
