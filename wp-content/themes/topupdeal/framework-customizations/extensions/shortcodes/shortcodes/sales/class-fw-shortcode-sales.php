@@ -4,7 +4,7 @@ class FW_Shortcode_Sales extends FW_Shortcode
 {
 	protected function _render($atts, $content = null, $tag = '')
 	{
-		$all_sales_items = getSalesItems(7);
+		$all_sales_items = getSalesItems(12);
 		$atts['main_sale'] = array_slice($all_sales_items, 0,1);
 		$atts['product_on_sales'] = array_slice($all_sales_items, 1);
 		$view_path = $this->locate_path('/views/view.php');

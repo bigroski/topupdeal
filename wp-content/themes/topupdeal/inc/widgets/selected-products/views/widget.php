@@ -18,7 +18,7 @@
 							if(!empty($group)):
 								$_pf = new WC_Product_Factory();  
 								foreach($group as $product_id):
-									$product = $_pf->get_product($product_id);
+									$product = $_pf->get_product((int)$product_id);
 						?>
 						<div class="product product-list-sm">
 							<figure class="product-media">

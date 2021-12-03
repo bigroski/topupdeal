@@ -14,3 +14,102 @@ Domain Path: /languages
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+.social-facebook i{
+	color: blue;
+	font-size: 18px;
+}
+.social-twitter i{
+	color: blue;
+	font-size: 18px;
+
+}
+.social-instagram i{
+	color: purple;
+	font-size: 18px;
+
+}
+.social-youtube i{
+	color: red;
+	font-size: 18px;
+
+}
+.fw-col-xs-12{
+	padding: 0;
+}
+.product-cat{
+	display: none;
+}
+.product-thumbnail{
+	position: relative;
+}
+.product-remove.remove{
+	position: absolute;
+    top: 7px;
+    right: 40px;
+}
+.woocommerce-cart-form__cart-item.cart_item figure img{
+	width: 100px;
+	height: 100px;
+}
+td.product-price{
+	display: table-cell;
+}
+.woocommerce-bacs-bank-details{
+	background: #fff;
+    padding: 24px;
+    border: 12px solid #2ea2cc;
+    border-radius: 20px;
+}
+.bank_name{
+	font-size: 16px;
+}
+.account_number{
+	font-size: 16px;
+}
+.order .page-content {
+	background: #fff;
+}
+td.product-name{
+
+    width: 254px;
+    white-space: pre-line;
+
+}
+form.woocommerce-cart-form{
+	padding: 15px;
+	background: #fff;
+}
+.shop-table thead {
+	color: #fff;
+    background: #0063d1;
+    padding: 22px;
+}
+.cart-actions  .coupon{
+	grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+.cart-actions .coupon .form-control, .cart-actions .coupon button{
+	display: inline-grid;
+    width: 48%;
+    grid-column: 1 / 3;
+}
+.esewa-content{
+	margin: 0 auto;
+    display: block;
+    width: 122px;
+}
+#esewa_payment_form{
+	width: 150px;
+	margin: 0 auto;
+}
+#esewa_payment_form input[type="submit"]{
+	padding: 10px;
+    font-weight: bold;
+}
+.woocommerce{
+	margin-bottom: 15px;
+}
+.woocommerce ul.order_details li{
+	font-size: 15px;
+}

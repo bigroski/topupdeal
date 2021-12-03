@@ -42,7 +42,7 @@ data-animation-options="{'delay': '.3s'}">
         </div>
         <?php 
             endforeach;
-            // var_dump($product_on_sales);
+            // var_dump(count($product_on_sales));
             // if($product_on_sales->have_posts()):
                 
             if(count($product_on_sales) > 0):

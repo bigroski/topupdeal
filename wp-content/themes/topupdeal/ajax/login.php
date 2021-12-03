@@ -22,7 +22,7 @@
                     <form method="post" action="<?php echo wp_registration_url() ?>">
                         <div class="form-group">
                             <label for="user_login">Pick a name:</label>
-                            <input type="email" class="form-control" id="user_login" name="user_login"
+                            <input type="text" class="form-control" id="user_login" name="user_login"
                                 required />
                         </div>
                         <div class="form-group">

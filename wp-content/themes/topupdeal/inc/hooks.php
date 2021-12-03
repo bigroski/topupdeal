@@ -688,3 +688,22 @@ add_action('woocommerce_after_main_content', 'add_container_div_end');
 function add_container_div_end(){
 	echo '</div>';
 }
+
+add_action('woocommerce_thankyou_bacs', 'remove_colon');
+function remove_colon($a){
+	
+}
+
+function wpb_login_logo() { ?>
+    <style type="text/css">
+        #login h1 a, .login h1 a {
+            background-image: url(<?php echo get_image_url(fw_get_db_settings_option('logo')); ?>);
+        height:100px;
+        width:300px;
+        background-size: 300px 100px;
+        background-repeat: no-repeat;
+        padding-bottom: 10px;
+        }
+    </style>
+<?php }
+add_action( 'login_enqueue_scripts', 'wpb_login_logo' );

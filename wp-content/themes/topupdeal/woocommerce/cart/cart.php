@@ -35,10 +35,10 @@ do_action( 'woocommerce_before_cart' ); ?>
 							<thead>
 								<tr>
 										<th><span>Product</span></th>
-										<th></th>
+										<th style="width: 150px;"><span>Product Name</span></th>
 										<th><span>Price</span></th>
-										<th><span>quantity</span></th>
-										<th>Subtotal</th>
+										<th><span>Quantity</span></th>
+										<th><span>Subtotal</span></th>
 									</tr>
 								<!-- <tr>
 									<th class="product-remove">&nbsp;</th>
@@ -80,7 +80,7 @@ do_action( 'woocommerce_before_cart' ); ?>
 													echo apply_filters( // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 														'woocommerce_cart_item_remove_link',
 														sprintf(
-															'<a href="%s" class="product-remove" aria-label="%s" data-product_id="%s" data-product_sku="%s">&times;</a>',
+															'<a href="%s" class="product-remove remove" aria-label="%s" data-product_id="%s" data-product_sku="%s">&times;</a>',
 															esc_url( wc_get_cart_remove_url( $cart_item_key ) ),
 															esc_html__( 'Remove this item', 'woocommerce' ),
 															esc_attr( $product_id ),
@@ -165,12 +165,12 @@ do_action( 'woocommerce_before_cart' ); ?>
 										<div class="cart-actions  mb-6 pt-6">
 										<?php if ( wc_coupons_enabled() ) { ?>
 											<div class="coupon">
-												<input type="text" name="coupon_code" class="input-text form-control" id="coupon_code" value="" placeholder="<?php esc_attr_e( 'Coupon code', 'woocommerce' ); ?>" /> <button type="submit" class="btn btn-md" name="apply_coupon" value="<?php esc_attr_e( 'Apply coupon', 'woocommerce' ); ?>"><?php esc_attr_e( 'Apply coupon', 'woocommerce' ); ?></button>
+												<input type="text" name="coupon_code" class="input-text form-control" id="coupon_code" value="" placeholder="<?php esc_attr_e( 'Coupon code', 'woocommerce' ); ?>" /> <button type="submit" class="btn btn-md btn-primary" name="apply_coupon" value="<?php esc_attr_e( 'Apply coupon', 'woocommerce' ); ?>"><?php esc_attr_e( 'Apply coupon', 'woocommerce' ); ?></button>
 												<?php do_action( 'woocommerce_cart_coupon' ); ?>
 											</div>
 										<?php } ?>
 
-										<button type="submit" class="button btn" name="update_cart" value="<?php esc_attr_e( 'Update cart', 'woocommerce' ); ?>"><?php esc_html_e( 'Update cart', 'woocommerce' ); ?></button>
+										<button type="submit" class="button btn btn-primary" name="update_cart" value="<?php esc_attr_e( 'Update cart', 'woocommerce' ); ?>"><?php esc_html_e( 'Update cart', 'woocommerce' ); ?></button>
 
 										<?php do_action( 'woocommerce_cart_actions' ); ?>
 

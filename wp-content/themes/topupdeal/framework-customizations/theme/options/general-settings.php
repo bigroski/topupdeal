@@ -73,6 +73,18 @@ $options = array(
 						'type'  => 'text',
 						
 					),
+					'instagram' => array(
+						'label' => __( 'Instagram', 'unyson' ),
+						// 'desc'  => __( 'Write your phonenumber', 'unyson' ),
+						'type'  => 'text',
+						
+					),
+					'youtube' => array(
+						'label' => __( 'Youtube', 'unyson' ),
+						// 'desc'  => __( 'Write your phonenumber', 'unyson' ),
+						'type'  => 'text',
+						
+					),
 				)
 			)
 		)

@@ -1,0 +1,2097 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Topup Deal | Just another WordPress site</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://dev.topupdeal/xmlrpc.php">
+	<script>
+        WebFontConfig = {
+            google: { families: ['Open+Sans:400,600,700', 'Poppins:400,600,700'] }
+        };
+        (function (d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'http://dev.topupdeal/wp-content/themes/topupdeal/js/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
+
+		<link rel="icon" type="image/png" href="//dev.topupdeal/wp-content/uploads/2021/03/logo.png">
+		<!--[if lt IE 9]>
+	<script src="http://dev.topupdeal/wp-content/themes/topupdeal/js/html5.js"></script>
+	<![endif]-->
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Topup Deal &raquo; Feed" href="http://dev.topupdeal/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Topup Deal &raquo; Comments Feed" href="http://dev.topupdeal/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dev.topupdeal\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://dev.topupdeal/wp-includes/css/dashicons.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-linecons-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/linecons/css/linecons.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-font-awesome-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/font-awesome.min.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-entypo-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/entypo/css/entypo.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-linearicons-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/lnr/css/lnr.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-typicons-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/typcn/css/typcn.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-unycon-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/static/libs/unycon/unycon.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-d_icon-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/css/donald-icon.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-fontawesome_five-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/fontawesome-free/css/all.min.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://dev.topupdeal/wp-includes/css/dist/block-library/style.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://dev.topupdeal/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://dev.topupdeal/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.1.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.1.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='megamenu-css'  href='http://dev.topupdeal/wp-content/uploads/maxmegamenu/style.css?ver=db8401' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-breadcrumbs-add-css-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/breadcrumbs/static/css/style.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-builder-frontend-grid-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/builder/static/css/frontend-grid.css?ver=1.2.12' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-forms-default-styles-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/forms/static/css/frontend.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-theme-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/genericons/genericons.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-theme-style-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/style.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-five-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/fontawesome-free/css/all.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/animate/animate.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/magnific-popup/magnific-popup.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/owl-carousel/owl.carousel.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='demo27-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/css/demo27.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/css/custom.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-shortcode-section-background-video-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/css/background.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-shortcode-section-css'  href='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/css/styles.css?ver=5.7.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dev.topupdeal/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='my_loadmore-js-extra'>
+/* <![CDATA[ */
+var misha_loadmore_params = {"ajaxurl":"http:\/\/dev.topupdeal\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"59\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"59\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/js/myloadmore.js?ver=5.7.1' id='my_loadmore-js'></script>
+<link rel="https://api.w.org/" href="http://dev.topupdeal/wp-json/" /><link rel="alternate" type="application/json" href="http://dev.topupdeal/wp-json/wp/v2/pages/59" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dev.topupdeal/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dev.topupdeal/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+<meta name="generator" content="WooCommerce 5.1.0" />
+<link rel="canonical" href="http://dev.topupdeal/" />
+<link rel='shortlink' href='http://dev.topupdeal/' />
+<link rel="alternate" type="application/json+oembed" href="http://dev.topupdeal/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdev.topupdeal%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://dev.topupdeal/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdev.topupdeal%2F&#038;format=xml" />
+<style type="text/css">.wp_autosearch_suggestions {border-width: 1px;border-color: #57C297 !important;border-style: solid;width: 190px;background-color: #a0a0a0;font-size: 10px;line-height: 14px;border: none !important;}.wp_autosearch_suggestions a {display: block;clear: left;text-decoration: none;}.wp_autosearch_suggestions a img {float: left;padding: 3px 5px;}.wp_autosearch_suggestions a .searchheading {display: block;font-weight: bold;padding-top: 5px;}.wp_autosearch_suggestions .wps_odd a {color: #000000;}.wp_autosearch_suggestions .wps_even a {color: #000000;}.wp_autosearch_suggestions .wp_autosearch_category {font-size: 12px;padding: 5px;display: block;background-color: #5286A0 !important;color: #FFFFFF !important;}.wps_over a.wp_autosearch_category{color: #FFFFFF !important;background-color: 6A81A0 !important;}.wp_autosearch_suggestions .wp_autosearch_more {padding: 5px;display: block;background-color: #5286A0 !important;color: #FFFFFF !important;background-image: url(http://dev.topupdeal/wp-content/plugins/wp-autosearch//assert/image/arrow.png);background-repeat: no-repeat;background-position: 99% 50%;cursor: pointer;}.wps_over a.wp_autosearch_more{color: #FFFFFF !important;background-color: #4682A0 !important;}.wp_autosearch_suggestions .wp_autosearch_more a {height: auto;color: #FFFFFF !important;}.wp_autosearch_image {margin: 2px;}.wp_autosearch_result {padding-left: 5px;}.wp_autosearch_indicator {background: url('http://dev.topupdeal/wp-content/plugins/wp-autosearch//assert/image/indicator.gif') no-repeat scroll 100% 50% #FFF !important;}.wp_autosearch_suggestions {padding: 0px;background-color: white;overflow: hidden;z-index: 99999;}.wp_autosearch_suggestions ul {width: 100%;list-style-position: outside;list-style: none;padding: 0;margin: 0;}.wp_autosearch_suggestions li {margin: 0px;cursor: pointer;display: block;font: menu;font-size: 12px;line-height: 16px;overflow: hidden;}.wps_odd {background-color: #FFFFFF;}.wps_even {background-color: #E8E8E8;}.ac_over {background-color: #5CCCB2;color: #FFFFFF !important;}.ac_over a, .ac_over a span {color: #FFFFFF !important;}.wp_autosearch_input{width: 88% !important;height: 50px !important;border: none !important;background-color: #FFFFFF !important;outline: none;box-shadow: 0px 0px 0px #FFF !important;-moz-box-shadow: 0px 0px 0px #FFF !important;-webkit-box-shadow: 0px 0px 0px #FFF !important;text-indent: 5px !important;margin: 0 !important;padding: 0 !important;overflow: hidden;float: left;line-height: 29px;vertical-align: middle;color: #000000 !important;}.wp_autosearch_wrapper{width: 100%;}.wp_autosearch_suggestions{box-shadow: #888888 5px 10px 10px;-webkit-box-shadow: #888888 5px 10px 10px;}.wp_autosearch_submit, .wp_autosearch_submit:hover, .wp_autosearch_submit:active, .wp_autosearch_submit:visited{cursor: pointer;height: 50px;width: 54px;overflow: hidden;background: transparent url('') no-repeat scroll !important;float: right;font-size: 100%;-webkit-appearance: none;outline: none;position: absolute;right: 0px;top: 0px;background-color: transparent;border: none ;border-radius: 0 !important;padding: 0 !important;margin: 0 !important;display: block !important;}.wp_autosearch_form_wrapper{width: 100%;border: 1px solid #57C297 !important;height: 52px !important;background-color: #FFFFFF !important;position: relative;}.wp_autosearch_item_description{padding-right: 2px;padding-left: 2px;}.wp_autosearch_form_label{display: none;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+
+
+<body class="home page-template-default page page-id-59 theme-topupdeal woocommerce-no-js mega-menu-primary masthead-fixed full-width footer-widgets" style="overflow-x: hidden;">
+    <div class="loading-overlay">
+        <div class="bounce-loader">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+            <div class="bounce4"></div>
+        </div>
+    </div>
+    <div class="page-wrapper">
+        <h1 class="d-none"> - Just another WordPress site</h1>
+        <header class="header">
+            <!-- <div class="d-flex justify-content-center bg-dark">
+                <div class="alert alert-black alert-dark font-primary ">
+                    Get 10% extra Off on Mero Marketing Birthday Sale - Use Mero Marketingbirthday coupon - <a href="#"
+                        class="btn btn-shop btn-link btn-underline btn-underline-width-sm btn-underline-visible btn-primary text-normal btn-sm font-primary ">Shop
+                        now!</a>
+                    <button type="button" class="btn btn-link btn-close">
+                        <i class="d-icon-times"></i>
+                    </button>
+                </div>
+            </div> -->
+            <div class="header-top">
+                <div class="container">
+                    <div class="header-left">
+                        <p class="welcome-msg">Welcome to topup deal, the one and only</p>
+                        <a href="tel:#" class="call">Call: 9876543210,4411595</a>
+                    </div>
+                    <div class="header-right">
+                        <div class="dropdown dropdown-expanded">
+                            <a href="#dropdown">Quick Links</a>
+                            <ul id="menu-top-head-menu" class="dropdown-box"><li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://dev.topupdeal/sample-page/">About</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://dev.topupdeal/checkout/">Checkout</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://dev.topupdeal/shop/">Shop</a></li>
+</ul>                            <!-- <ul class="dropdown-box">
+                                <li><a href="about-us.html">About</a></li>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Newsletter</a></li>
+                                <li><a href="#">Contact</a></li>
+                                <li><a href="wishlist.html">Wishlist</a></li>
+                            </ul> -->
+                        </div>
+                        <!-- End DropDownExpanded Menu -->
+                    </div>
+                </div>
+            </div>
+            <!-- End HeaderTop -->
+            <div class="header-middle">
+                <div class="container">
+                    <div class="header-left">
+                        <a href="#" class="mobile-menu-toggle">
+                            <i class="d-icon-bars2"></i>
+                        </a>
+                        <a href="http://dev.topupdeal" class="logo">
+
+                            <img src="//dev.topupdeal/wp-content/uploads/2021/03/logo.png" alt="logo" width="163" height="39" />
+                        </a>
+                    </div>
+                    <div class="header-center">
+                        <a href="http://dev.topupdeal" class="logo">
+                            <img src="//dev.topupdeal/wp-content/uploads/2021/03/logo.png" alt="logo" width="163" height="39" />
+                        </a>
+                        <!-- End Logo -->
+                        <div class="header-search hs-simple">
+                            		<div class="wizardinfosys_autosearch_wrapper">
+				<form id="wizardinfosys_autosearch_form" full_search_url="http://dev.topupdeal/?s=%q%" action="http://dev.topupdeal/" method="get">
+					<div class="wp_autosearch_form_wrapper" style="max-width: px;">
+						<label class="wp_autosearch_form_label"></label>
+						<input name="s" class="wp_autosearch_input" type="text"  value="" style="width: 95%;" placeholder="" autocomplete="off" />
+						<button style="display: none;" class="wp_autosearch_submit"></button>
+					</div>
+				</form>
+			</div>
+		                            <!-- <form action="#" method="get" class="input-wrapper">
+                                <input type="text" class="form-control border-no" name="search" id="search"
+                                    placeholder="Search your keyword..." required="">
+                                <button class="btn btn-sm btn-search" type="submit"><i
+                                        class="d-icon-search"></i></button>
+                            </form> -->
+                        </div>
+                        <!-- End Header Search -->
+                    </div>
+                    <div class="header-right">
+                                                <a id="login-popper" class="login" href="javascript:void(0);">
+                            <i class="d-icon-user"></i>
+                            <span>Login</span>
+                        </a>
+                                                <!-- End Login -->
+                        <span class="divider"></span>
+                        <div class="dropdown cart-dropdown">
+                            <a href="#" class="cart-toggle">
+                                <span class="cart-label">
+                                    <span class="cart-name">My Cart</span>
+                                    <span class="cart-price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8360;</span>&nbsp;0.00</bdi></span></span>
+                                </span>
+                                <i class="minicart-icon">
+                                    <span class="cart-count">0</span>
+                                </i>
+                            </a>
+                            <!-- End Cart Toggle -->
+                            <div class="dropdown-box">
+                                <div class="product product-cart-header">
+                                    <span class="product-cart-counts">0 items</span>
+                                    <span><a href="http://dev.topupdeal/cart/">View cart</a></span>
+                                </div>
+                                    
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+                                    
+                                <!-- End of Cart Action -->
+                            </div>
+                            <!-- End Dropdown Box -->
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- standard-navigation -->
+            <div class="header-bottom sticky-header fix-top sticky-content has-center">
+                <div class="container">
+                    <!-- header-left -->
+                    <!-- <div class="header-left">
+                    </div> -->
+                    <div class="header-center">
+                        
+                        <nav class="main-nav">
+                            <div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-inner-width="780px" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-current-menu-item mega-page_item mega-page-item-59 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-138' id='mega-menu-item-138'><a class="mega-menu-link" href="http://dev.topupdeal/" tabindex="0">Home</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-139' id='mega-menu-item-139'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Fashion<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-139-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-144' id='mega-menu-item-144'><a class="mega-menu-link" href="#">Mens<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-141' id='mega-menu-item-141'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-142' id='mega-menu-item-142'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-140' id='mega-menu-item-140'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/">Clothing</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-145' id='mega-menu-item-145'><a class="mega-menu-link" href="#">Womens<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-143' id='mega-menu-item-143'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-3' id='mega-menu-item-media_image-3'><a href="http://localhost:8080/shop"><img width="199" height="296" src="http://dev.topupdeal/wp-content/uploads/2021/04/sale-menu.png" class="image wp-image-174  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-146' id='mega-menu-item-146'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/children/" aria-haspopup="true" aria-expanded="false" tabindex="0">Children<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-146-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-176' id='mega-menu-item-176'><a class="mega-menu-link">School Essentials<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-178' id='mega-menu-item-178'><a class="mega-menu-link" href="http://localhost:8080/my-account/orders/">Orders</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-179' id='mega-menu-item-179'><a class="mega-menu-link" href="http://localhost:8080/my-account/downloads/">Downloads</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-180' id='mega-menu-item-180'><a class="mega-menu-link" href="http://localhost:8080/my-account/edit-address/">Addresses</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-177' id='mega-menu-item-177'><a class="mega-menu-link">Baby Boomer<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-183' id='mega-menu-item-183'><a class="mega-menu-link" href="http://dev.topupdeal/terms-conditions/">Terms &#038; Conditions</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-182' id='mega-menu-item-182'><a class="mega-menu-link" href="http://dev.topupdeal/payment-methods/">Payment Methods</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-184' id='mega-menu-item-184'><a class="mega-menu-link" href="http://dev.topupdeal/customer-service/">Customer Service</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-181' id='mega-menu-item-181'><a class="mega-menu-link" href="http://dev.topupdeal/shipping/">Shipping</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-4' id='mega-menu-item-media_image-4'><a href="https://topupdeal.com"><img width="300" height="217" src="http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration-300x217.jpg" class="image wp-image-175  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration-300x217.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-3'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-5' id='mega-menu-item-media_image-5'><a href="http://destiniychild.com"><img width="199" height="296" src="http://dev.topupdeal/wp-content/uploads/2021/04/sale-menu.png" class="image wp-image-174  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-147' id='mega-menu-item-147'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/decor/" tabindex="0">Decor</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-148' id='mega-menu-item-148'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/electronics/" tabindex="0">Electronics</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-149' id='mega-menu-item-149'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/mobiles/" tabindex="0">Mobiles</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-150' id='mega-menu-item-150'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/music/" tabindex="0">Music</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-151' id='mega-menu-item-151'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/pets/" tabindex="0">Pets</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-152' id='mega-menu-item-152'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/toys/" tabindex="0">Toys</a></li></ul></div>                            
+                        </nav>    
+                        <!-- Header Search -->
+                    </div>
+                    
+                    <div class="header-right">
+                        <nav>
+                            <ul class="menu right-flash-menu">
+                                <li>
+                                    <a href="http://dev.topupdeal/shop" class="btn btn-sm btn-icon-left btn-alert btn-outline"> <i class="fa fa-info-circle"></i>Flash Sales</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <!-- end standard navigation -->
+            <div class="header-bottom sticky-header fix-top sticky-content" style="">
+                <div class="container  justify-content-center">
+                    <div class="row align-items-center gutter-no scrollable w100">
+                                                <a href="http://dev.topupdeal/product-category/handpicked/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-headphone"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Handpicked                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/clothing/accessories/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-battery"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Accessories                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/children/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-babycare"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Children                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/clothing/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="lnr lnr-map-marker"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Clothing                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/electronics/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-watch-round"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Electronics                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/decor/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-bridge-lamp"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Decor                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/home-living/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-ball"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Home &amp;</br />Living</br />                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                <a href="http://dev.topupdeal/product-category/mobiles/" class="category category-icon-inline">
+                                                        <div class="category-media" style="font-size: 3.2rem">
+
+                                <i class="d-icon d-icon-mobile"></i>
+                            </div>
+                                                        <div class="category-content">
+                                <h4 class="category-name">
+                                    Mobiles                                    <!-- Mobile Phone <br />&amp; Accessories -->
+                                </h4>
+                            </div>
+                        </a>
+                                                
+                        <!-- <a href="shop.html" class="category category-icon-inline">
+                            <div class="category-media">
+                                <i class="d-icon-category"></i>
+                            </div>
+                            <div class="category-content">
+                                <h4 class="category-name">Browse <br />More</h4>
+                            </div>
+                        </a> -->
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End Header -->
+        <!-- End Header -->
+        <main class="main">
+            <div class="page-content">
+
+	<!-- <div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main"> -->
+
+			<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="fw-row">
+	<div class="fw-col-xs-12">
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$('.nivoSlider').nivoSlider({effect:'fade'});
+		});
+	</script>
+	<!--Slider-->
+	<section class="wrap-nivoslider theme-default">
+		<div class="nivoSlider">
+						<img  width='300' height="200" src="//dev.topupdeal/wp-content/uploads/2021/07/banner1-scaled.jpg" alt="" title="#nivo-0"/>
+						<img  width='300' height="200" src="//dev.topupdeal/wp-content/uploads/2021/07/banner3-scaled.jpg" alt="" title="#nivo-1"/>
+					</div>
+				<div id="nivo-0" class="nivo-html-caption">
+			<span></span>
+		</div>
+				<div id="nivo-1" class="nivo-html-caption">
+			<span></span>
+		</div>
+			</section>
+	<!--/Slider-->
+</div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="intro-section container">
+                    <div class="row grid">
+                        <div class="grid-item col-lg-8 height-x2 appear-animate"
+                            data-animation-options="{'name': 'fadeInRightShorter'}">
+                            <div class="intro-slide1 banner banner-fixed" style="background-color: #f5f6f8">
+                                <figure>
+                                                                        <!-- /images/demos/demo3/slides/2.jpg -->
+                                    <img src="//dev.topupdeal/wp-content/uploads/2021/03/freestocks-_3Q3tsJ01nc-unsplash-scaled.jpg" alt="banner" width="785" height="433" />
+                                </figure>
+                                <div class="banner-content w-100 x-50 text-center">
+                                    <h3 class="banner-title ls-m ">Fashion Trends</h3>
+                                    <h4 class="banner-subtitle mb-5 font-weight-normal text-body text-white">Find you match and your brand</h4>
+                                    <a href="" class="btn btn-primary">Shop now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid-item col-lg-4 col-sm-6 height-x2 appear-animate"
+                            data-animation-options="{'name': 'fadeInDownShorter'}">
+                            <div class="intro-banner1 banner banner-fixed" style="background-color: #ebecee">
+                                <a href="#">
+                                    <figure>
+                                        <!-- http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/banner/2.jpg -->
+                                        <img src="//dev.topupdeal/wp-content/uploads/2021/03/hardik-sharma-CrPAvN29Nhs-unsplash-scaled.jpg" alt="banner" width="385"
+                                            height="433" />
+                                    </figure>
+                                </a>
+                                <div class="banner-content w-100 x-50 text-center">
+                                    <h4 class="banner-subtitle mb-3 font-weight-normal text-body">Heavy discount for new mobile devices</h4>
+                                    <h3 class="banner-title mb-0 font-weight-bold ls-m text-primary">Mobile Mela</h3>
+                                </div>
+                            </div>
+                        </div>
+                                                                        <div class="grid-item col-sm-6 height-x1 appear-animate"
+                            data-animation-options="{'name': 'fadeInUpShorter'}">
+                            <div class="intro-banner2 banner banner-fixed overlay-light"
+                                style="background-color: #fff296">
+                                <figure>
+                                    <img src="//dev.topupdeal/wp-content/uploads/2021/03/banner-oven.png" alt="banner" width="585" height="213" />
+                                </figure>
+                                <div class="banner-content w-100 y-50">
+                                    <h4 class="banner-subtitle mb-1 text-black">New Arrivals</h4>
+                                    <h3 class="banner-title ls-m text-uppercase text-black">Kitchen Appliance</h3>
+                                    <p class="font-weight-semi-bold text-black ls-m">Wired, Wireless</p>
+                                    <a href="" class="btn btn-primary btn-md">Shop now<i
+                                            class="d-icon-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="grid-item col-sm-6 height-x1 appear-animate"
+                            data-animation-options="{'name': 'fadeInUpShorter'}">
+                            <div class="intro-banner2 banner banner-fixed overlay-light"
+                                style="background-color: #fff296">
+                                <figure>
+                                    <img src="//dev.topupdeal/wp-content/uploads/2021/03/banner-earpods.png" alt="banner" width="585" height="213" />
+                                </figure>
+                                <div class="banner-content w-100 y-50">
+                                    <h4 class="banner-subtitle mb-1 text-white">New Arrivals</h4>
+                                    <h3 class="banner-title ls-m text-uppercase text-white">Airpods Collections</h3>
+                                    <p class="font-weight-semi-bold text-white ls-m">Wired, Wireless, Bassful</p>
+                                    <a href="http://dev.topupdeal" class="btn btn-primary btn-md">Shop now<i
+                                            class="d-icon-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                                                
+                        <div class="grid-space col-1"></div>
+                    </div>
+                </section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="product-wrapper container mt-10 pt-1 appear-animate"
+data-animation-options="{'delay': '.3s'}">
+<h2 class="title title-simple with-link">
+    <span class="d-flex align-items-center">
+        <span class="mr-4 mt-1 mb-1">Items on Sales</span>
+        <!-- <span
+        class="countdown-container bg-dark d-flex align-items-center font-weight-normal text-white">
+        <label>Ends In:</label><span class="countdown countdown-compact" data-format="HMS"
+        data-until="2021, 8, 22" data-compact="true">00:00:00</span>
+    </span> -->
+</span><a href="#">View more<i class="fas fa-chevron-right"></i></a>
+</h2>
+<div class="product-grid">
+    <div class="grid grid-float row gutter-no">
+                <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+                        <!-- <a href="product.html">
+                            <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/1.jpg" alt="product" width="280"
+                            height="221">
+                        </a> -->
+                        <a href="http://dev.topupdeal/product/beanie-with-logo/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png 970w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-300x300.png 300w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-150x150.png 150w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-768x768.png 768w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-600x600.png 600w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                        <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>                        
+                    </figure>
+                    	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/beanie-with-logo/">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.18</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+        </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/wordpress-pennant/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/decor/">Decor</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/wordpress-pennant/">WordPress Pennant</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.10</ins><del class="old-price">Rs.11.05</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/hoodie-with-zipper/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-zipper/">Hoodie with Zipper</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.40</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/single/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/music/">Music</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/single/">Single</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.100</ins><del class="old-price">Rs.200</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/sunglasses/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/sunglasses-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/sunglasses/">Sunglasses</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.70</ins><del class="old-price">Rs.90</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/long-sleeve-tee/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/long-sleeve-tee/">Long Sleeve Tee</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.20</ins><del class="old-price">Rs.25</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/polo/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-768x767.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-600x599.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/polo/">Polo</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.15</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/album/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/album-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/album-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/music/">Music</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/album/">Album</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.11</ins><del class="old-price">Rs.15</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/hoodie-with-pocket/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-pocket/">Hoodie with Pocket</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.35</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/beanie/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/beanie-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/beanie/">Beanie</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.18</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/belt/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/belt-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/belt-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/belt/">Belt</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.55</ins><del class="old-price">Rs.65</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/cap/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/cap-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/cap-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/cap/">Cap</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.16</ins><del class="old-price">Rs.18</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                </div>
+    </div>
+</section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="banner-group row gutter-no mt-10 pt-4">
+                        <div class="col-lg-6">
+                        <div class="banner1 banner banner-fixed" style="background-color: #1b72d3">
+                            <figure>
+
+                                <img src="//dev.topupdeal/wp-content/uploads/2021/03/5.jpg" alt="banner" width="951" height="353" />
+                                <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/banner/5.jpg" alt="banner" width="951" height="353" /> -->
+                            </figure>
+                            <div class="banner-content y-50">
+                                <h3 class="banner-title text-black ls-m appear-animate"
+                                    data-animation-options="{'name':'blurIn', 'duration': '1.2s'}">Don’t Miss Get Our Special Offer</h3>
+                                <p class="ls-m appear-animate" data-animation-options="{
+                                    'name': 'fadeInUpShorter',
+                                    'delay': '.3s'
+                                }">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nibh id elit.</p>
+                                <a href="" class="btn btn-outline btn-white appear-animate" data-animation-options="{
+                                    'name': 'fadeInUpShorter',
+                                    'delay': '.5s'
+                                }">Shop now</a>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="col-lg-6">
+                        <div class="banner2 banner banner-fixed" style="background-color: #1b72d3">
+                            <figure>
+
+                                <img src="//dev.topupdeal/wp-content/uploads/2021/03/6.jpg" alt="banner" width="951" height="353" />
+                                <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/banner/5.jpg" alt="banner" width="951" height="353" /> -->
+                            </figure>
+                            <div class="banner-content y-50">
+                                <h3 class="banner-title text-white ls-m appear-animate"
+                                    data-animation-options="{'name':'blurIn', 'duration': '1.2s'}">New Arrivals HD8 for Education</h3>
+                                <p class="ls-m appear-animate" data-animation-options="{
+                                    'name': 'fadeInUpShorter',
+                                    'delay': '.3s'
+                                }">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nibh id elit.  SHOP NOW</p>
+                                <a href="" class="btn btn-outline btn-white appear-animate" data-animation-options="{
+                                    'name': 'fadeInUpShorter',
+                                    'delay': '.5s'
+                                }">Shop now</a>
+                            </div>
+                        </div>
+                    </div>
+                      
+</section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="product-wrapper grey-section pb-2 pt-10 appear-animate"
+data-animation-options="{'delay': '.3s'}">
+<div class="container pb-10 pt-3">
+    <div class="title-wrapper with-filters d-flex align-items-center justify-content-between">
+        <h2 class="title title-simple">
+            Handpicked Products        </h2>
+        <ul class="nav-filters product-filters filter-underline" data-target="#products-grid">
+                        <li><a href="#" class="nav-filter" data-filter=".accessories">Accessories</a></li>
+                        <li><a href="#" class="nav-filter" data-filter=".clothing">Clothing</a></li>
+                        <li><a href="#" class="nav-filter" data-filter=".decor">Decor</a></li>
+                        <li><a href="#" class="nav-filter" data-filter=".hoodies">Hoodies</a></li>
+                        <li><a href="#" class="nav-filter" data-filter=".music">Music</a></li>
+                        <li><a href="#" class="nav-filter active" data-filter="*">View all</a></li>
+        </ul>
+    </div>
+    <div class="product-grid">
+        <div class="row grid  gutter-no bg-white" id="products-grid" data-grid-options="{
+        'layoutMode': 'fitRows',
+        'percentPosition': 'true'
+    }">
+        <div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 accessories handpicked ">
+        
+        <div class="product text-center">
+            <figure class="product-media">
+                <figure class="product-media">
+
+                    <a href="http://dev.topupdeal/product/beanie-with-logo/">
+                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png 970w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-300x300.png 300w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-150x150.png 150w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-768x768.png 768w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-600x600.png 600w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />                    </a>
+                    <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>                    
+                </figure>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/beanie-with-logo/">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.18</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+            
+        </div>
+    </div>
+        <div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 clothing handpicked ">
+        
+        <div class="product text-center">
+            <figure class="product-media">
+                <figure class="product-media">
+
+                    <a href="http://dev.topupdeal/product/logo-collection/">
+                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/logo-1.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/logo-1.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-768x767.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-600x599.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                    </a>
+                                        
+                </figure>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/">Clothing</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/logo-collection/">Logo Collection</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.18</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+            
+        </div>
+    </div>
+        <div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 handpicked hoodies ">
+        
+        <div class="product text-center">
+            <figure class="product-media">
+                <figure class="product-media">
+
+                    <a href="http://dev.topupdeal/product/hoodie-with-pocket/">
+                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                    </a>
+                    <div class="product-label-group">
+			<label class="product-label label-sale">22% off</label>
+           </div>                    
+                </figure>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-pocket/">Hoodie with Pocket</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.35</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+            
+        </div>
+    </div>
+        <div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 handpicked hoodies ">
+        
+        <div class="product text-center">
+            <figure class="product-media">
+                <figure class="product-media">
+
+                    <a href="http://dev.topupdeal/product/hoodie-with-zipper/">
+                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                    </a>
+                    <div class="product-label-group">
+			<label class="product-label label-sale">11% off</label>
+           </div>                    
+                </figure>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-zipper/">Hoodie with Zipper</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.40</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+            
+        </div>
+    </div>
+        
+</div>
+</div>
+</div>
+</section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	
+<section class="product-wrapper container mt-10 pt-1 appear-animate"
+data-animation-options="{'delay': '.3s'}">
+<h2 class="title title-simple with-link">
+    <span class="d-flex align-items-center">
+        <span class="mr-4 mt-1 mb-1">Hoodies</span>
+        <!-- <span
+        class="countdown-container bg-dark d-flex align-items-center font-weight-normal text-white">
+        <label>Ends In:</label><span class="countdown countdown-compact" data-format="HMS"
+        data-until="2021, 8, 22" data-compact="true">00:00:00</span>
+    </span> -->
+</span><a href="http://dev.topupdeal/product-category/clothing/hoodies/">View more<i class="fas fa-chevron-right"></i></a>
+</h2>
+<div class="product-grid">
+    <div class="grid grid-float row gutter-no">
+                <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+                        <!-- <a href="product.html">
+                            <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/1.jpg" alt="product" width="280"
+                            height="221">
+                        </a> -->
+                        <a href="http://dev.topupdeal/product/hoodie-with-pocket/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                        <div class="product-label-group">
+			<label class="product-label label-sale">22% off</label>
+           </div>                        
+                    </figure>
+                    	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-pocket/">Hoodie with Pocket</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.35</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+        </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/hoodie-with-zipper/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                    <div class="product-label-group">
+			<label class="product-label label-sale">11% off</label>
+           </div>                    	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-zipper/">Hoodie with Zipper</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.40</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/hoodie/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                                        	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie/">Hoodie</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.42</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                    <div class="grid-item col-lg-2 col-sm-6 height-x2">
+                <div class="product text-center">
+                    <figure class="product-media">
+
+                        <a href="http://dev.topupdeal/product/hoodie-with-logo/">
+                            <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-100x100.jpg 100w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2.jpg 801w" sizes="(max-width: 300px) 100vw, 300px" />                            <!-- <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/demos/demo27/products/2.jpg" alt="product" width="148"
+                            height="168"> -->
+                        </a>
+                    </figure>
+                                        	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-logo/">Hoodie with Logo</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.45</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                </div>
+            </div>
+                </div>
+    </div>
+</section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="banner3 banner mt-10"
+                    style="background-image: url(//dev.topupdeal/wp-content/uploads/2021/03/7.jpg); background-color: #252628">
+                    <div class="container">
+                        <div class="banner-content d-block d-lg-flex justify-content-between align-items-center">
+                            <h3 class="banner-title mb-lg-0 mr-8 ls-normal text-white text-uppercase font-weight-normal appear-animate"
+                                data-animation-options="{'name':'fadeInLeft', 'delay': '.3s'}">
+                                Shopper's Paradise                                <!-- <strong>Black</strong>
+                                Friday Sale -->
+                            </h3>
+                            <h4 class="banner-subtitle mb-lg-0 mr-8 ls-normal font-italic text-white text-uppercase font-weight-normal appear-animate"
+                                data-animation-options="{'name':'blurIn'}"><strong>Bag your proper product</strong></h4>
+                            <a href="http://outrightnepal.com.np" class="btn btn-primary appear-animate"
+                                data-animation-options="{'name':'fadeInRight', 'delay': '.3s'}">Shop now</a>
+                        </div>
+                    </div>
+                </section>
+                </div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="product-wrapper pt-10 pb-10 grey-section appear-animate"
+                    data-animation-options="{'delay': '.3s'}">
+                    <div class="container pt-3 pb-4">
+                        <h2 class="title title-simple with-link">
+                            Hoodies                            <a href="http://dev.topupdeal/product-category/clothing/hoodies/">View more<i class="fas fa-chevron-right"></i></a>
+                        </h2>
+                        <div class="product-grid owl-carousel owl-theme owl-nav-inner owl-split row cols-xl-6 cols-lg-5 cols-md-4 cols-sm-3 cols-2 bg-white"
+                            data-owl-options="{
+                            'items': 6,
+                            'margin': 1,
+                            'loop': false,
+                            'nav': true,
+                            'dots': false,
+                            'responsive': {
+                                '0': {
+                                    'items': 2
+                                },
+                                '576': {
+                                    'items': 3
+                                },
+                                '768': {
+                                    'items': 4
+                                },
+                                '992': {
+                                    'items': 5
+                                },
+                                '1200': {
+                                    'items': 6
+                                }
+                            }
+                        }">
+                                                    <div class="product text-center">
+                                <figure class="product-media">
+                                    <a href="http://dev.topupdeal/product/hoodie-with-pocket/">
+                                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                                        
+                                    </a>
+                                    <div class="product-label-group">
+			<label class="product-label label-sale">22% off</label>
+           </div>                                </figure>
+                                	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-pocket/">Hoodie with Pocket</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.35</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                                
+                            </div>
+                                                    <div class="product text-center">
+                                <figure class="product-media">
+                                    <a href="http://dev.topupdeal/product/hoodie-with-zipper/">
+                                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-zipper-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                                        
+                                    </a>
+                                    <div class="product-label-group">
+			<label class="product-label label-sale">11% off</label>
+           </div>                                </figure>
+                                	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-zipper/">Hoodie with Zipper</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.40</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                                
+                            </div>
+                                                    <div class="product text-center">
+                                <figure class="product-media">
+                                    <a href="http://dev.topupdeal/product/hoodie/">
+                                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                                        
+                                    </a>
+                                                                    </figure>
+                                	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie/">Hoodie</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.42</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                                
+                            </div>
+                                                    <div class="product text-center">
+                                <figure class="product-media">
+                                    <a href="http://dev.topupdeal/product/hoodie-with-logo/">
+                                        <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                                        
+                                    </a>
+                                                                    </figure>
+                                	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-logo/">Hoodie with Logo</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.45</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+                                
+                            </div>
+                                                    
+                        </div>
+                    </div>
+                </section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="product-wrapper grey-section pb-2 pt-10 appear-animate"
+data-animation-options="{'delay': '.3s'}">
+<div class="container pb-10 pt-3">
+    <div class="title-wrapper with-filters d-flex align-items-center justify-content-between">
+        <h2 class="title title-simple">
+            Latest Items
+        </h2>
+        <ul class="nav-filters product-filters filter-underline" data-target="#products-grid">
+            <!-- <li><a href="#" class="nav-filter" data-filter=".mobile">Mobile</a></li>
+            <li><a href="#" class="nav-filter" data-filter=".headphone">Headphone</a></li>
+            <li><a href="#" class="nav-filter" data-filter=".camera">Camera</a></li>
+            <li><a href="#" class="nav-filter" data-filter=".drone">Drone</a></li>
+            <li><a href="#" class="nav-filter" data-filter=".speaker">Speaker</a></li> -->
+            <!-- <li><a href="#" class="nav-filter active" data-filter="*">View all</a></li> -->
+        </ul>
+    </div>
+    <div class="product-grid">
+        <!-- <div class=""> -->
+        <div class="row grid products-grid gutter-no bg-white" id="products-grid-alternate" >
+            <div class="grid-space col-1"></div>
+            <div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/t-shirt-with-logo/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/t-shirt-with-logo-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/t-shirt-with-logo/">T-Shirt with Logo</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.18</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/beanie-with-logo/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2.png 970w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-300x300.png 300w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-150x150.png 150w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-768x768.png 768w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-600x600.png 600w, http://dev.topupdeal/wp-content/uploads/2021/03/patagonia-yellow-beanie-hat-2-100x100.png 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/beanie-with-logo/">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.18</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/logo-collection/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/logo-1.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/logo-1.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-768x767.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-600x599.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/logo-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/">Clothing</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/logo-collection/">Logo Collection</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.18</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/wordpress-pennant/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/pennant-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">10% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/decor/">Decor</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/wordpress-pennant/">WordPress Pennant</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.10</ins><del class="old-price">Rs.11.05</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/hoodie-with-pocket/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/minimalist-pouch-pocket-hoodie-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">22% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-pocket/">Hoodie with Pocket</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.35</ins><del class="old-price">Rs.45</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/long-sleeve-tee/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">20% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/long-sleeve-tee/">Long Sleeve Tee</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.20</ins><del class="old-price">Rs.25</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/polo/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/polo-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/polo-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-768x767.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-600x599.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/polo-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">25% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/polo/">Polo</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.15</ins><del class="old-price">Rs.20</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/album/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/album-1.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/album-1.jpg 800w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/album-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">27% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/music/">Music</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/album/">Album</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.11</ins><del class="old-price">Rs.15</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/single/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/long-sleeve-tee-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                <div class="product-label-group">
+			<label class="product-label label-sale">50% off</label>
+           </div>            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/music/">Music</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/single/">Single</a>
+		</h3>
+        <div class="product-price">
+        	        	<ins class="new-price">Rs.100</ins><del class="old-price">Rs.200</del>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/hoodie/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie/">Hoodie</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.42</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/hoodie-with-logo/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/hoodie-with-logo-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/hoodie-with-logo/">Hoodie with Logo</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.45</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div><div class="grid-item col-xl-2 col-lg-3 col-sm-4 col-6 speaker">
+        <div class="product text-center">
+            <figure class="product-media">
+                <a href="http://dev.topupdeal/product/t-shirt/">
+                    <img width="300" height="300" src="http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2.jpg" class="attachment-medium-300 size-medium-300" alt="" loading="lazy" srcset="http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2.jpg 801w, http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2-300x300.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2-150x150.jpg 150w, http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2-768x768.jpg 768w, http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2-600x600.jpg 600w, http://dev.topupdeal/wp-content/uploads/2021/03/tshirt-2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />                </a>
+                            </figure>
+            	<div class="product-details">
+		<div class="product-cat">
+        	<a href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a>        </div>
+        <h3 class="product-name">
+        	<a href="http://dev.topupdeal/product/t-shirt/">T-Shirt</a>
+		</h3>
+        <div class="product-price">
+        				<span class="price">Rs.18</span>
+        	        </div>
+		<div class="ratings-container">
+			<div class="ratings-full">
+				<span class="ratings" style="width:0%"></span>
+	            <span class="tooltiptext tooltip-top"></span>
+	        </div>
+	      </div>        </div>
+        </div>
+    </div>
+            
+        </div>
+        <!-- </div> -->
+    <a class="misha_loadmore btn btn-outline" data-max_pages="2" data-current_page="1">Load More</a>
+</div>
+</div>
+</section></div>
+</div>
+
+<div class="fw-row">
+	<div class="fw-col-xs-12">
+	<section class="blog mt-10 pt-3">
+                    <div class="container">
+                        <h2 class="title title-simple text-left">Latest news</h2>
+                        <div class="owl-carousel owl-theme row owl-nav-full cols-lg-3 cols-sm-2 cols-1"
+                            data-owl-options="{
+                            'items': 3,
+                            'margin': 20,
+                            'dots': false,
+                            'nav': true,
+                            'loop': false,
+                            'responsive': {
+                                '0': {
+                                    'items': 1
+                                },
+                                '576': {
+                                    'items': 2
+                                },
+                                '992': {
+                                    'items': 3
+                                }
+                            }
+                        }">
+                                                    <div class="post overlay-zoom appear-animate"
+                                data-animation-options="{'name': 'fadeInRightShorter', 'delay': '.1s'}">
+                                <figure class="post-media">
+                                    <a href="http://dev.topupdeal/2021/03/22/hello-world/">
+                                        <img src="http://dev.topupdeal/wp-content/uploads/2021/03/1.jpg" width="280" height="189" alt="post" />
+                                    </a>
+                                </figure>
+                                <div class="post-details">
+                                    
+                                    <h3 class="post-title"><a href="">Hello world!</a></h3>
+                                    <a href="http://dev.topupdeal/2021/03/22/hello-world/" class="btn btn-link btn-underline btn-sm">Read More<i
+                                            class="d-icon-arrow-right"></i></a>
+                                </div>
+                            </div>
+                                                        
+                        </div>
+                    </div>
+                </section></div>
+</div>
+
+	</div>
+</section>
+</div>
+
+		<!-- </div>#content -->
+	<!-- </div>#primary -->
+	<!-- </div>#main-content -->
+
+	    </div>
+    </main>
+        <!-- End Main -->
+
+	<footer class="footer">
+            <div class="footer-middle">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="widget widget-about">
+                                <a href="index.html" class="logo-footer">
+                                    <img src="//dev.topupdeal/wp-content/uploads/2021/03/logo.png" alt="logo-footer" width="163" height="39" />
+                                </a>
+                                <div class="widget-body">
+                                                                        
+                                </div>
+                            </div>
+                            <!-- End Widget -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="widget">
+                                <h4 class="widget-title">About Us</h4>
+                                <ul id="menu-footer-one" class="widget-body"><li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://dev.topupdeal/order-history/">Order History</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://dev.topupdeal/payment-methods/">Payment Methods</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://dev.topupdeal/returns/">Returns</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="http://dev.topupdeal/shipping/">Shipping</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://dev.topupdeal/terms-conditions/">Terms &#038; Conditions</a></li>
+</ul>                            </div>
+                            <!-- End Widget -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="widget">
+                                <h4 class="widget-title">Customer Service</h4>
+                                <ul id="menu-footer-two" class="widget-body"><li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-59 current_page_item menu-item-129"><a href="http://dev.topupdeal/" aria-current="page">HomePage</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="http://dev.topupdeal/about-us/">About Us</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="http://dev.topupdeal/cart/">Cart</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://dev.topupdeal/checkout/">Checkout</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://dev.topupdeal/my-account/">My account</a></li>
+</ul>                                
+                            </div>
+                            <!-- End Widget -->
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                            <div class="widget">
+                                <h4 class="widget-title">Social Links</h4>
+                                <ul class="widget-body">
+                                    <li><a href="https://facebook.com" class=" social-facebook"><i class="fab fa-facebook-f"> </i> Facebook</a> </li>
+                                    <li><a href="https://twitter.com" class=" social-twitter "><i class="fab fab fa-twitter"> </i> Twitter</a> </li>
+                                    <li><a href="https://instagram.com" class=" social-instagram "><i class="fab fab fa-instagram"> </i> Instagram</a> </li>
+                                    <li><a href="https://youtube.com" class=" social-youtube "><i class="fab fab fa-youtube"> </i> Youtube</a> </li>
+                                </ul>
+                                
+
+                            </div>
+                            <!-- End Widget -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Footer Middle -->
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="footer-left">
+                        <!-- <figure class="payment">
+                            <img src="http://dev.topupdeal/wp-content/themes/topupdeal/images/payment.png" alt="payment" width="159" height="29" />
+                        </figure> -->
+                    </div>
+                    <div class="footer-center">
+                        <p class="copyright">Mero Marketing eCommerce &copy; 2020. All Rights Reserved</p>
+                    </div>
+                    <div class="footer-right">
+                        <div class="social-links">
+                            
+                            <!-- <a href="#" class="social-link social-linkedin fab fa-linkedin-in"></a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Footer Bottom -->
+        </footer>
+        <!-- End Footer -->
+    </div>
+    <!-- Sticky Footer -->
+    <!-- <div class="sticky-footer sticky-content fix-bottom">
+        <a href="index.html" class="sticky-link active">
+            <i class="d-icon-home"></i>
+            <span>Home</span>
+        </a>
+        <a href="shop.html" class="sticky-link">
+            <i class="d-icon-volume"></i>
+            <span>Categories</span>
+        </a>
+        <a href="wishlist.html" class="sticky-link">
+            <i class="d-icon-heart"></i>
+
+            <span>Wishlist</span>
+        </a>
+        <div class="header-search hs-toggle dir-up">
+            <a href="#" class="search-toggle sticky-link">
+                <i class="d-icon-search"></i>
+                <span>Search</span>
+            </a>
+            <form action="#" class="input-wrapper">
+                <input type="text" class="form-control" name="search" autocomplete="off"
+                    placeholder="Search your keyword..." required />
+                <button class="btn btn-search" type="submit">
+                    <i class="d-icon-search"></i>
+                </button>
+            </form>
+        </div>
+        <a href="account.html" class="sticky-link">
+            <i class="d-icon-user"></i>
+            <span>Account</span>
+        </a>
+    </div> -->
+
+    <!-- Scroll Top -->
+    <a id="scroll-top" href="#top" title="Top" role="button" class="scroll-top"><i class="d-icon-angle-up"></i></a>
+
+    <!-- MobileMenu -->
+    <div class="mobile-menu-wrapper">
+        <div class="mobile-menu-overlay">
+        </div>
+        <!-- End Overlay -->
+        <a class="mobile-menu-close" href="#"><i class="d-icon-times"></i></a>
+        <!-- End CloseButton -->
+        <div class="mobile-menu-container scrollable">
+            		<div class="wizardinfosys_autosearch_wrapper">
+				<form id="wizardinfosys_autosearch_form" full_search_url="http://dev.topupdeal/?s=%q%" action="http://dev.topupdeal/" method="get">
+					<div class="wp_autosearch_form_wrapper" style="max-width: px;">
+						<label class="wp_autosearch_form_label"></label>
+						<input name="s" class="wp_autosearch_input" type="text"  value="" style="width: 95%;" placeholder="" autocomplete="off" />
+						<button style="display: none;" class="wp_autosearch_submit"></button>
+					</div>
+				</form>
+			</div>
+		            <!-- End Search Form -->
+            <div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-inner-width="780px" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-current-menu-item mega-page_item mega-page-item-59 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-138' id='mega-menu-item-138'><a class="mega-menu-link" href="http://dev.topupdeal/" tabindex="0">Home</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-139' id='mega-menu-item-139'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Fashion<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-139-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-144' id='mega-menu-item-144'><a class="mega-menu-link" href="#">Mens<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-141' id='mega-menu-item-141'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/tshirts/">Tshirts</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-142' id='mega-menu-item-142'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/accessories/">Accessories</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-140' id='mega-menu-item-140'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/">Clothing</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-145' id='mega-menu-item-145'><a class="mega-menu-link" href="#">Womens<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-143' id='mega-menu-item-143'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/clothing/hoodies/">Hoodies</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-139-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-3' id='mega-menu-item-media_image-3'><a href="http://localhost:8080/shop"><img width="199" height="296" src="http://dev.topupdeal/wp-content/uploads/2021/04/sale-menu.png" class="image wp-image-174  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-146' id='mega-menu-item-146'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/children/" aria-haspopup="true" aria-expanded="false" tabindex="0">Children<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-146-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-176' id='mega-menu-item-176'><a class="mega-menu-link">School Essentials<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-178' id='mega-menu-item-178'><a class="mega-menu-link" href="http://localhost:8080/my-account/orders/">Orders</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-179' id='mega-menu-item-179'><a class="mega-menu-link" href="http://localhost:8080/my-account/downloads/">Downloads</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-180' id='mega-menu-item-180'><a class="mega-menu-link" href="http://localhost:8080/my-account/edit-address/">Addresses</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-177' id='mega-menu-item-177'><a class="mega-menu-link">Baby Boomer<span class="mega-indicator"></span></a>
+			<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-183' id='mega-menu-item-183'><a class="mega-menu-link" href="http://dev.topupdeal/terms-conditions/">Terms &#038; Conditions</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-182' id='mega-menu-item-182'><a class="mega-menu-link" href="http://dev.topupdeal/payment-methods/">Payment Methods</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-184' id='mega-menu-item-184'><a class="mega-menu-link" href="http://dev.topupdeal/customer-service/">Customer Service</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-181' id='mega-menu-item-181'><a class="mega-menu-link" href="http://dev.topupdeal/shipping/">Shipping</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-4' id='mega-menu-item-media_image-4'><a href="https://topupdeal.com"><img width="300" height="217" src="http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration-300x217.jpg" class="image wp-image-175  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration-300x217.jpg 300w, http://dev.topupdeal/wp-content/uploads/2021/04/79980275-big-sale-banner-happy-family-with-shopping-bags-cartoon-vector-illustration.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-146-0-3'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-5' id='mega-menu-item-media_image-5'><a href="http://destiniychild.com"><img width="199" height="296" src="http://dev.topupdeal/wp-content/uploads/2021/04/sale-menu.png" class="image wp-image-174  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-147' id='mega-menu-item-147'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/decor/" tabindex="0">Decor</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-148' id='mega-menu-item-148'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/electronics/" tabindex="0">Electronics</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-149' id='mega-menu-item-149'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/mobiles/" tabindex="0">Mobiles</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-150' id='mega-menu-item-150'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/music/" tabindex="0">Music</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-151' id='mega-menu-item-151'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/pets/" tabindex="0">Pets</a></li><li class='mega-menu-item mega-menu-item-type-taxonomy mega-menu-item-object-product_cat mega-align-bottom-left mega-menu-flyout mega-menu-item-152' id='mega-menu-item-152'><a class="mega-menu-link" href="http://dev.topupdeal/product-category/toys/" tabindex="0">Toys</a></li></ul></div>            
+            <!-- End MobileMenu -->
+        </div>
+    </div>
+    <div id="login-popup" class="login-popup">
+    <div class="form-box">
+        <div class="tab tab-nav-simple tab-nav-boxed form-tab">
+            <ul class="nav nav-tabs nav-fill" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#signin">Sign in</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#register">Register</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane active" id="signin">
+                    <form class="" method="post" >
+
+	
+	
+	<div class="form-group">
+		<label for="username">Username or email&nbsp;<span class="required">*</span></label>
+		<input type="text" class="form-control" name="username" id="username" autocomplete="username" />
+	</div>
+	<div class="form-group">
+		<label for="password">Password&nbsp;<span class="required">*</span></label>
+		<input class="form-control" type="password" name="password" id="password" autocomplete="current-password" />
+	</div>
+	
+		<div class="form-footer">
+		<div class="form-checkbox">
+        	<input type="checkbox" class="custom-checkbox" id="signin-remember" name="rememberme" value="forever" >
+            <label class="form-control-label font-secondary" for="signin-remember">Remember me</label>
+		</div>
+        <a href="http://dev.topupdeal/my-account/lost-password/"  class="lost-link font-secondary">Lost your password?</a>
+    </div>
+	
+	<p class="form-row">
+		<!-- <label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+			<input class="custom-checkbox woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Remember me</span>
+		</label> -->
+		<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="2560d3a291" /><input type="hidden" name="_wp_http_referer" value="/" />		<input type="hidden" name="redirect" value="" />
+		<button type="submit" class="woocommerce-button button woocommerce-form-login__submit btn btn-primary btn-block" name="login" value="Login">Login</button>
+	</p>
+	<!-- <p class="lost_password">
+		<a href="http://dev.topupdeal/my-account/lost-password/">Lost your password?</a>
+	</p> -->
+
+	<div class="clear"></div>
+
+	
+</form>
+
+                    
+                </div>
+                <div class="tab-pane" id="register">
+                    
+                    
+                    <form method="post" action="http://dev.topupdeal/wp-login.php?action=register">
+                        <div class="form-group">
+                            <label for="user_login">Pick a name:</label>
+                            <input type="email" class="form-control" id="user_login" name="user_login"
+                                required />
+                        </div>
+                        <div class="form-group">
+                            <label for="user_email">Your email address:</label>
+                            <input type="email" class="form-control" id="user_email" name="user_email"
+                                required />
+                        </div>
+                        <!-- <div class="form-group">
+                            <label for="singin-password">Password:</label>
+                            <input type="password" class="form-control" id="register-password" name="register-password"
+                                required />
+                        </div> -->
+                        <!-- <div class="form-footer">
+                            <div class="form-checkbox">
+                                <input type="checkbox" class="custom-checkbox" id="register-agree" name="register-agree"
+                                    required />
+                                <label class="form-control-label font-secondary" for="register-agree">I agree to the
+                                    privacy policy</label>
+                            </div>
+                        </div> -->
+                        <button class="btn btn-primary btn-block" type="submit">Sign up</button>
+                    </form>
+                    <div class="form-choice text-center hide">
+                        <label class="font-secondary">Sign in with social account</label>
+                        <div class="social-links">
+                            <a href="#" class="social-link social-facebook fab fa-facebook-f"></a>
+                            <a href="#" class="social-link social-twitter fab fa-twitter"></a>
+                            <a href="#" class="social-link social-google fab fa-google"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <!-- Plugins JS File -->
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='fw-ext-nivo-slider-nivo-slider-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/framework-customizations/extensions/media/extensions/slider/extensions/nivo-slider/static/css/nivo-slider.css?ver=2.7.24' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-nivo-slider-theme-css'  href='http://dev.topupdeal/wp-content/themes/topupdeal/framework-customizations/extensions/media/extensions/slider/extensions/nivo-slider/static/css/theme.css?ver=2.7.24' type='text/css' media='all' />
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/dev.topupdeal\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.1.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.1.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_95743d169a32961d1c27ccf943c8dbfc","fragment_name":"wc_fragments_95743d169a32961d1c27ccf943c8dbfc","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.1.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/wp-autosearch/assert/js/migrate.js?ver=5.7.1' id='wp-autosearch-migrate-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/wp-autosearch/assert/js/autocomplete.js?ver=5.7.1' id='wp-autosearch-script-core-js'></script>
+<script type='text/javascript' id='wp-autosearch-script-js-extra'>
+/* <![CDATA[ */
+var wp_autosearch_config = {"autocomplete_taxonomies":{"0":"category"},"split_results_by_type":"true","search_title":"true","search_content":"true","search_terms":"false","search_exactonly":"true","order_by":"title","order":"DESC","search_comments":"false","search_tags":"false","no_of_results":"20","description_limit":"100","title_limit":"50","excluded_ids":{},"excluded_cats":{"0":0},"full_search_url":"http:\/\/dev.topupdeal\/?s=%q%","min_chars":"3","ajax_delay":"400","cache_length":"200","autocomplete_sortorder":"posts","thumb_image_display":"true","thumb_image_width":"50","thumb_image_height":"50","get_first_image":"true","force_resize_first_image":"true","thumb_image_crop":"true","default_image":"http:\/\/dev.topupdeal\/wp-content\/plugins\/wp-autosearch\/assert\/image\/default.png","search_image":"","display_more_bar":"true","display_result_title":"true","enable_token":"true","custom_css":"","custom_js":"","try_full_search_text":"Search more...","no_results_try_full_search_text":"No Results!","show_author":"false","show_date":"false","description_result":"false","color":{"results_even_bar":"E8E8E8","results_odd_bar":"FFFFFF","results_even_text":"000000","results_odd_text":"000000","results_hover_bar":"5CCCB2","results_hover_text":"FFFFFF","seperator_bar":"2D8DA0","seperator_hover_bar":"6A81A0","seperator_text":"FFFFFF","seperator_hover_text":"FFFFFF","more_bar":"5286A0","more_hover_bar":"4682A0","more_text":"FFFFFF","more_hover_text":"FFFFFF","box_border":"57C297","box_background":"FFFFFF","box_text":"000000"},"title":{"fw-event":"Events","page":"Pages","post":"Blog Post","product":"Products","fw-learning-articles":"Lessons","fw-learning-courses":"Courses","fw-portfolio":"Projects"},"post_types":{"0":"product"},"nonce":"19731f0487","ajax_url":"http:\/\/dev.topupdeal\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/wp-autosearch/assert/js/ajax-script.js?ver=5.7.1' id='wp-autosearch-script-js'></script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"http:\/\/dev.topupdeal","ajax_url":"http:\/\/dev.topupdeal\/wp-admin\/admin-ajax.php","language":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.1' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/elevatezoom/jquery.elevatezoom.min.js' id='elevatezoom-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/magnific-popup/jquery.magnific-popup.min.js' id='magnific-popup-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/owl-carousel/owl.carousel.min.js' id='owl-carouse-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/imagesloaded/imagesloaded.pkgd.min.js' id='imagesloaded-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/isotope/isotope.pkgd.min.js' id='isotope-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/jquery.plugin/jquery.plugin.min.js' id='jquery-plugin-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/vendor/jquery.countdown/jquery.countdown.min.js' id='jquery-countdown-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/js/main.js' id='main-js-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/core.js?ver=5.7.1' id='fw-shortcode-section-formstone-core-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/transition.js?ver=5.7.1' id='fw-shortcode-section-formstone-transition-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/background.js?ver=5.7.1' id='fw-shortcode-section-formstone-background-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/section/static/js/background.init.js?ver=5.7.1' id='fw-shortcode-section-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-includes/js/hoverIntent.min.js?ver=1.8.1' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.3' id='megamenu-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-includes/js/wp-embed.min.js?ver=5.7.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://dev.topupdeal/wp-content/themes/topupdeal/framework-customizations/extensions/media/extensions/slider/extensions/nivo-slider/static/js/jquery.nivo.slider.js?ver=2.7.24' id='fw-ext-nivo-slider-jquery.nivo.slider-js'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: dev.topupdeal @ 2021-08-01 06:05:49 by W3 Total Cache
+-->

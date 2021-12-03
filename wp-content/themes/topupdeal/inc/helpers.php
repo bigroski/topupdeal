@@ -364,7 +364,7 @@ function get_image_url($image_array){
 */
 function getSalesItems($limit = 8){
 		$args = array(
-		    'posts_per_page' => 8,
+		    'posts_per_page' => $limit,
 
 		    'meta_query'     => array(
 		        'relation' => 'OR',
@@ -417,9 +417,11 @@ function fw_get_product_star_rating($product){
 	$total_rating = $product->get_rating_count();
 	$percent = 0;
 	if($total_rating > 0){
-		$percent  = ($average_rating * 100)/$total_rating;
+		$percent  = ($average_rating * 100 )/5;
 	}
-                        
+	// var_dump($average_rating);
+	// var_dump($total_rating);
+	// var_dump($percent);
 	echo '<div class="ratings-container">
 			<div class="ratings-full">
 				<span class="ratings" style="width:'.$percent.'%"></span>

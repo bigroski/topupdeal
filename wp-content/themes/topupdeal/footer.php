@@ -52,12 +52,14 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="widget">
-                                <h4 class="widget-title">My Account</h4>
-                                <?php wp_nav_menu([
-                                    'theme_location' => 'footer_three',
-                                    'menu_class' => 'widget-body',
-                                    'container' => ''
-                                ]); ?>
+                                <h4 class="widget-title">Social Links</h4>
+                                <ul class="widget-body">
+                                    <li><a href="<?php echo fw_get_db_settings_option('facebook') ?>" class=" social-facebook"><i class="fab fa-facebook-f"> </i> Facebook</a> </li>
+                                    <li><a href="<?php echo fw_get_db_settings_option('twitter') ?>" class=" social-twitter "><i class="fab fab fa-twitter"> </i> Twitter</a> </li>
+                                    <li><a href="<?php echo fw_get_db_settings_option('instagram') ?>" class=" social-instagram "><i class="fab fab fa-instagram"> </i> Instagram</a> </li>
+                                    <li><a href="<?php echo fw_get_db_settings_option('youtube') ?>" class=" social-youtube "><i class="fab fab fa-youtube"> </i> Youtube</a> </li>
+                                </ul>
+                                
 
                             </div>
                             <!-- End Widget -->
@@ -78,8 +80,7 @@
                     </div>
                     <div class="footer-right">
                         <div class="social-links">
-                            <a href="<?php echo fw_get_db_settings_option('facebook') ?>" class="social-link social-facebook fab fa-facebook-f"></a>
-                            <a href="<?php echo fw_get_db_settings_option('twitter') ?>" class="social-link social-twitter fab fa-twitter"></a>
+                            
                             <!-- <a href="#" class="social-link social-linkedin fab fa-linkedin-in"></a> -->
                         </div>
                     </div>

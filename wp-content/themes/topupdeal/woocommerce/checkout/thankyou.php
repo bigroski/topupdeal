@@ -60,7 +60,38 @@ defined( 'ABSPATH' ) || exit;
 
 					<h2 class="title title-simple text-left pt-3">Order Details</h2>
 					<div class="order-details mb-1">
-						<?php do_action( 'woocommerce_thankyou_' . $order->get_payment_method(), $order->get_id() ); ?>
+						<?php 
+							if($order->get_payment_method() == 'bacs'){
+								// Get the order country and country $locale.
+								$country = $order->get_billing_country();
+								
+								// Get sortcode label in the $locale array and use appropriate one.
+								$account_details = get_option( 'woocommerce_bacs_accounts');
+								if(!empty($account_details)):
+									?>
+									<div class="alert alert-primary alert-dark alert-round alert-inline">
+	                                    <h4 class="alert-title">Please forward your paynet to either of the mentioned Bank Accounts.</h4>
+	                                </div>
+									<?php
+									foreach($account_details as $account){
+										if($account['account_name'] == ''){ continue; }
+										?>
+										<div class="alert alert-message alert-light alert-primary alert-link mb-4">
+		                                    <ul>
+		                                    	<li><strong>Account name: </strong><?php echo $account['account_name'] ?></li>
+		                                    	<li><strong>Bank Name: </strong><?php echo $account['bank_name'] ?></li>
+		                                    	<li><strong>Account Number: </strong><?php echo $account['account_number'] ?></li>
+		                                    </ul>
+		                                </div>
+										<?php
+									}
+								endif;
+								// var_dump($account_details);
+							}else{
+
+								do_action( 'woocommerce_thankyou_' . $order->get_payment_method(), $order->get_id() ); 
+							}
+						?>
 						
 					</div>
 
